@@ -23,12 +23,12 @@ I like turning messy real-world processes into clean, secure, role-based systems
 
 ### 🛠️ Tech I work with
 
-**Languages:** Python · C# · TypeScript · Dart · SQL
-**Frontend & mobile:** React · Vite · Tailwind CSS · Flutter · Riverpod
-**Backend & data:** ASP.NET Core · FastAPI · Supabase · PostgreSQL (RLS, PL/pgSQL, triggers) · SQLite · REST · SignalR
-**AI / ML:** PyTorch · Hugging Face Transformers · scikit-learn · LIME
-**Cloud & security:** Azure · AWS · Linux · Wazuh · Wireshark · threat modelling (STRIDE, MITRE ATT&CK)
-**Practice:** Git · Agile/Scrum · UML/ERD · SRS documentation
+- **Languages:** Python · C# · TypeScript · Dart · SQL
+- **Frontend & mobile:** React · Vite · Tailwind CSS · Flutter · Riverpod
+- **Backend & data:** ASP.NET Core · FastAPI · Supabase · PostgreSQL (RLS, PL/pgSQL, triggers) · SQLite · REST · SignalR
+- **AI / ML:** PyTorch · Hugging Face Transformers · scikit-learn · LIME
+- **Cloud & security:** Azure · AWS · Linux · Wazuh · Wireshark · threat modelling (STRIDE, MITRE ATT&CK)
+- **Practice:** Git · Agile/Scrum · UML/ERD · SRS documentation
 
 ---
 
