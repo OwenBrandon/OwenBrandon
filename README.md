@@ -12,9 +12,9 @@ I like turning messy real-world processes into clean, secure, role-based systems
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[NjangiPay](https://github.com/OwenBrandon/BB-Tax-Platform)** | Municipal tax administration platform: a 68-page admin portal plus taxpayer and field-officer mobile apps, 8 roles, and a tax engine written in PL/pgSQL (VAT, CIT, PIT, Patente, penalties) | React · TypeScript · Flutter · Supabase · PostgreSQL · RLS |
+| **[NjangiPay](https://github.com/OwenBrandon/NjangiPay)** | Municipal tax administration platform: a 68-page admin portal plus taxpayer and field-officer mobile apps, 8 roles, and a tax engine written in PL/pgSQL (VAT, CIT, PIT, Patente, penalties) | React · TypeScript · Flutter · Supabase · PostgreSQL · RLS |
 | **[SentinelAI](https://github.com/OwenBrandon/sentinelai)** | English and Cameroon Pidgin text classifier: fine-tuned AfroXLMR benchmarked against a TF-IDF baseline, with an API that explains its predictions (LIME) and an analyst dashboard | Python · Transformers · scikit-learn · FastAPI |
-| **[Huncho HMS](https://github.com/OwenBrandon/Huncho-HMS)** | Hostel management system: 7 roles, 13 modules (rooms, payments, mess, visitors, complaints), database-level security and live notifications | React · TypeScript · Supabase · Realtime |
+| **[Landmark HMS](https://github.com/OwenBrandon/Landmark-HMS)** | Hostel management system: 7 roles, 13 modules (rooms, payments, mess, visitors, complaints), database-level security and live notifications | React · TypeScript · Supabase · Realtime |
 | **[Smart Home App](https://github.com/OwenBrandon/home_automation_app)** | Flutter app that controls lights, fans and AC through ESP32/ESP8266 boards, with a voice-control overlay and an Android Quick Settings tile | Flutter · Dart · Riverpod · IoT |
 | **[ScrollCheckpoint](https://scrollcheckpoint.com)** | Digital-wellbeing app, live on **Google Play** and the **App Store**. I built the website and the mobile apps | Flutter · Mobile release |
 | **SSAKI Observer** *(in progress)* | .NET observability and self-healing platform: OTLP ingestion, a live architecture view, a Roslyn "what-if" sandbox | .NET 8 · ASP.NET Core · SignalR · React |
