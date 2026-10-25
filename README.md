@@ -1,14 +1,14 @@
-## Hi, I'm Brandon 👋
+## Hi, I'm Brandon
 
 **Software engineer in Buea, Cameroon. I build full-stack web platforms, cross-platform mobile apps and applied NLP systems, from requirements through to deployment.**
 
 I like turning messy real-world processes into clean, secure, role-based systems: municipal tax collection, hostel operations, text classification for low-resource African languages. Right now I'm going deep on **C# / .NET** and building an observability platform on it.
 
-📍 Buea, Cameroon (UTC+1) · 🌍 **Open to remote roles and freelance projects**
+**Open to remote roles and freelance projects**
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,7 +21,7 @@ I like turning messy real-world processes into clean, secure, role-based systems
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 - **Languages:** Python · C# · TypeScript · Dart · SQL
 - **Frontend & mobile:** React · Vite · Tailwind CSS · Flutter · Riverpod
@@ -32,13 +32,13 @@ I like turning messy real-world processes into clean, secure, role-based systems
 
 ---
 
-### 🎤 Speaking
+###  Speaking
 
 - Seminar: *RAT threat modelling and mitigation practices in enterprise environments*
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 
-- ✉️ owanbrandon6@gmail.com
-- 🌐 [scrollcheckpoint.com](https://scrollcheckpoint.com)
+-  owanbrandon6@gmail.com
+-  [scrollcheckpoint.com](https://scrollcheckpoint.com)
